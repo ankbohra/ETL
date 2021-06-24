@@ -23,7 +23,7 @@ After cleaning the datasets and workable, I started merging. To start, the Unemp
 Load
 
 The last step was to transfer our final output into a DataBase. 
-I created a extract the data frame into the CSV file and then with the help of boot3 service I upload this into AWS S3 buckuct. On Later stage this data will 
+I created a extract the data frame into the CSV file and then with the help of boot3 service, I upload this into AWS S3 bucket. And then this data will 
 will push to AWS dynmo DB with the help of AWS Datapipe line. 
 
 I inspired by a team of three who worked on the simmilar data set.
